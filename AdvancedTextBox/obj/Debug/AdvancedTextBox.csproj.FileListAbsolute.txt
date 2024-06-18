@@ -1,0 +1,25 @@
+C:\Users\EmranCo\Desktop\Emran\AdvancedTextBox\AdvancedTextBox\bin\Debug\AdvancedTextBox.exe.config
+C:\Users\EmranCo\Desktop\Emran\AdvancedTextBox\AdvancedTextBox\bin\Debug\AdvancedTextBox.exe
+C:\Users\EmranCo\Desktop\Emran\AdvancedTextBox\AdvancedTextBox\bin\Debug\AdvancedTextBox.pdb
+C:\Users\EmranCo\Desktop\Emran\AdvancedTextBox\AdvancedTextBox\obj\Debug\AdvancedTextBox.Form1.resources
+C:\Users\EmranCo\Desktop\Emran\AdvancedTextBox\AdvancedTextBox\obj\Debug\AdvancedTextBox.Properties.Resources.resources
+C:\Users\EmranCo\Desktop\Emran\AdvancedTextBox\AdvancedTextBox\obj\Debug\AdvancedTextBox.csproj.GenerateResource.Cache
+C:\Users\EmranCo\Desktop\Emran\AdvancedTextBox\AdvancedTextBox\obj\Debug\AdvancedTextBox.exe
+C:\Users\EmranCo\Desktop\Emran\AdvancedTextBox\AdvancedTextBox\obj\Debug\AdvancedTextBox.pdb
+C:\Users\EmranCo\Desktop\Emran\AdvancedTextBox\AdvancedTextBox\obj\Debug\AdvancedTextBox.csprojResolveAssemblyReference.cache
+C:\Users\EmranCo\Desktop\AdvancedTextBox\AdvancedTextBox\bin\Debug\AdvancedTextBox.exe.config
+C:\Users\EmranCo\Desktop\AdvancedTextBox\AdvancedTextBox\obj\Debug\AdvancedTextBox.exe
+C:\Users\EmranCo\Desktop\AdvancedTextBox\AdvancedTextBox\obj\Debug\AdvancedTextBox.pdb
+C:\Users\EmranCo\Desktop\AdvancedTextBox\AdvancedTextBox\bin\Debug\AdvancedTextBox.exe
+C:\Users\EmranCo\Desktop\AdvancedTextBox\AdvancedTextBox\bin\Debug\AdvancedTextBox.pdb
+C:\Users\EmranCo\Desktop\AdvancedTextBox\AdvancedTextBox\obj\Debug\AdvancedTextBox.Form1.resources
+C:\Users\EmranCo\Desktop\AdvancedTextBox\AdvancedTextBox\obj\Debug\AdvancedTextBox.Properties.Resources.resources
+C:\Users\EmranCo\Desktop\AdvancedTextBox\AdvancedTextBox\obj\Debug\AdvancedTextBox.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\labs\تطوير واجهات تفاعلية\AdvancedTextBox\AdvancedTextBox\bin\Debug\AdvancedTextBox.exe.config
+C:\Users\user\Desktop\labs\تطوير واجهات تفاعلية\AdvancedTextBox\AdvancedTextBox\obj\Debug\AdvancedTextBox.exe
+C:\Users\user\Desktop\labs\تطوير واجهات تفاعلية\AdvancedTextBox\AdvancedTextBox\obj\Debug\AdvancedTextBox.pdb
+C:\Users\user\Desktop\labs\تطوير واجهات تفاعلية\AdvancedTextBox\AdvancedTextBox\bin\Debug\AdvancedTextBox.exe
+C:\Users\user\Desktop\labs\تطوير واجهات تفاعلية\AdvancedTextBox\AdvancedTextBox\bin\Debug\AdvancedTextBox.pdb
+C:\Users\user\Desktop\labs\تطوير واجهات تفاعلية\AdvancedTextBox\AdvancedTextBox\obj\Debug\AdvancedTextBox.Form1.resources
+C:\Users\user\Desktop\labs\تطوير واجهات تفاعلية\AdvancedTextBox\AdvancedTextBox\obj\Debug\AdvancedTextBox.Properties.Resources.resources
+C:\Users\user\Desktop\labs\تطوير واجهات تفاعلية\AdvancedTextBox\AdvancedTextBox\obj\Debug\AdvancedTextBox.csproj.GenerateResource.Cache
